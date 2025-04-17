@@ -1,6 +1,6 @@
 Hi there 👋, I'm Piyush Verma!
 
-I'm a passionate learner and aspiring deveoper
+I'm a passionate learner and aspiring developer
 
 Skills I am currently learning:
 
